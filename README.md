@@ -8,7 +8,7 @@ The Application obtains the information you provide when you download and regist
 
 Automatically Collected Information
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID,  your mobile operating system.
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, advertising ID,  your mobile operating system.
 
 Does the Application collect precise real time location information of the device?
 
